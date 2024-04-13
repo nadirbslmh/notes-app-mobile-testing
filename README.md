@@ -6,15 +6,21 @@ A starter template for mobile testing with Appium and CucumberJS.
 
 1. Clone this repository.
 
-2. Write the tests.
+2. Install the dependencies.
 
-3. Run the tests.
+```sh
+npm install
+```
+
+4. Write the tests.
+
+5. Run the tests.
 
 ```sh
 npm test
 ```
 
-4. View the reports.
+5. View the reports.
 
 ```sh
 npm run report
