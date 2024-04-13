@@ -20,7 +20,7 @@ npm install
 npm test
 ```
 
-5. View the reports.
+6. View the reports.
 
 ```sh
 npm run report
