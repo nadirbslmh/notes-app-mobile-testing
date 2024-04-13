@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Mobile testing starter template using Appium and CucumberJS",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "cucumber-js -f json:test/report/cucumber_report.json",
     "report": "node report.js"

@@ -12,6 +12,12 @@ A starter template for mobile testing with Appium and CucumberJS.
 npm install
 ```
 
+3. Create `.env` file then define the appium configurations.
+
+```sh
+cp .env.example .env
+```
+
 4. Write the tests.
 
 5. Run the tests.
