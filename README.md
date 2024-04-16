@@ -1,6 +1,6 @@
-# mobile-testing-appium-cucumber-js-starter
+# notes-app-mobile-testing
 
-A starter template for mobile testing with Appium and CucumberJS.
+A mobile testing example for notes application using Appium and CucumberJS
 
 ## How to use
 
@@ -18,16 +18,18 @@ npm install
 cp .env.example .env
 ```
 
-4. Write the tests.
-
-5. Run the tests.
+4. Run the tests.
 
 ```sh
 npm test
 ```
 
-6. View the reports.
+5. View the reports.
 
 ```sh
 npm run report
 ```
+
+## Additional Notes
+
+The sample application can be found inside `sample` directory.
